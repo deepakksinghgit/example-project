@@ -3,4 +3,6 @@ kotlin
 scala
 ruby
 javascript
-c++
+c+
+ROR
+Pyhon:+
